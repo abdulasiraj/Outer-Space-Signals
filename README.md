@@ -1,4 +1,4 @@
-# Signals from Outer Space ['IREAITH', 'NRTXOHOFEAN', 'RS', 'HOXATRE', 'TR', 'UIKEHNQUH', 'QAEZUEIMOEN', 'NEHEATH', 'SQ']
+# First 9 words of deciphered mesg: ['IREAITH', 'NRTXOHOFEAN', 'RS', 'HOXATRE', 'TR', 'UIKEHNQUH', 'QAEZUEIMOEN', 'NEHEATH', 'SQ']
 
 ## Getting Started
 
