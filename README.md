@@ -1,4 +1,4 @@
-# Signals from Outer Space
+# Signals from Outer Space ['IREAITH', 'NRTXOHOFEAN', 'RS', 'HOXATRE', 'TR', 'UIKEHNQUH', 'QAEZUEIMOEN', 'NEHEATH', 'SQ']
 
 ## Getting Started
 
